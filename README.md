@@ -41,6 +41,9 @@ The total votes that were cast in each county:
 
 The winner of the election was Diana DeGette who received 73.8% of the votes and 272,892 number of votes.
 
+<img width="278" alt="image" src="https://user-images.githubusercontent.com/89113627/151248128-937c7ca9-d69e-49ac-824a-38b695259b67.png">
+
+
 # Challenge Overview
 The script was written with caution considering all parameters set for the county using provided csv file. This script can be used determined the outcomes of any election when all parameters are duly engaged.
 
