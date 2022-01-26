@@ -9,7 +9,7 @@ In this project, our final Python script will need to be able to deliver the fol
 - The winner of the election based on popular vote
 # Resources
 - Data Source: election_results.csv
-- Software: Python 3.9.5
+- Software: Python 3.10.2
 # Summary
 The analysis of the election shows that:
 
