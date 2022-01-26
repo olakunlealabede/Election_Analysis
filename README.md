@@ -45,7 +45,7 @@ The winner of the election was Diana DeGette who received 73.8% of the votes and
 
 
 # Challenge Overview
-The script was written with caution considering all parameters set for the county using provided csv file. This script can be used determined the outcomes of any election when all parameters are duly engaged.
+The script was written with caution considering all parameters set for the county using provided csv file. This script can be used to determine the outcomes of any election in any county when all parameters are duly engaged.
 
 # Challenge Summary
  This python script was able to compute the total number of votes cast, complete the list of candidates who received votes, calculate the total number of votes each candidate received, estimate the percentage of votes each candidate won, and finally select the winner of the election based on popular vote.
